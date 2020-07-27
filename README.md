@@ -1,1 +1,1 @@
-# computer_vision_image_classifcation
+# computer_vision_image_classification
